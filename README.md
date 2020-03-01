@@ -1,2 +1,2 @@
 # Hello-World
-My introductions highlighting my thoughts and how is work
+My introductions highlighting my thoughts and how it work
